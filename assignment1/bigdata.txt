@@ -1,5 +1,5 @@
-DEFINE BIG DATA:  
-The term big data is coined as extensively large data and complex data sets, in other words collection of huge amount of data both the structured and the unstructured data from different resources is called big data. And hence this data has to undergo changes using different tool like data mining and data warehousing etc and some other important business tools. Usually this data is being used in large business organisation and other sector and however its not about the size or the execessive data but also it is about the getting best outcome from it.
+# DEFINE BIG DATA:  
+term big data is coined as extensively large data and complex data sets, in other words collection of huge amount of data both the structured and the unstructured data from different resources is called big data. And hence this data has to undergo changes using different tool like data mining and data warehousing etc and some other important business tools. Usually this data is being used in large business organisation and other sector and however its not about the size or the execessive data but also it is about the getting best outcome from it.
 
 TYPES OF BIG DATA:-
 1.	STRUCTURED DATA:- The term structured data is defined as which is in the good form like format, organised, easy to understand and analysed. This organised data should be easily accesbile as it has gone many forms to become a organised and analysed data.   Structured data is nothing but a data model and hence it is in a order form and it can be access by anyone or else even by the computer also.
